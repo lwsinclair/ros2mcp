@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/nico0302-ros2mcp-badge.png)](https://mseep.ai/app/nico0302-ros2mcp)
+
 ![ros2mcp](./assets/github_dark.svg#gh-dark-mode-only)
 ![ros2mcp](./assets/github_light.svg#gh-light-mode-only)
 
